@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fa860f6-2e42-4353-8da6-d981efeb5620" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sFw4XSJ2MQ2a3t5fNRd5yRp173" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/gallery" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/gallery/large" />
+      <recent name="$PROJECT_DIR$/img/gallery" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/gallery" />
+      <recent name="$PROJECT_DIR$/img/gallery/large" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fa860f6-2e42-4353-8da6-d981efeb5620" name="Default Changelist" comment="" />
+      <created>1620481455571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620481455571</updated>
+      <workItem from="1620481456820" duration="3646000" />
+      <workItem from="1621037089390" duration="2552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2427" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620481483275">
+      <screen x="1440" y="25" width="2560" height="1055" />
+    </state>
+    <state x="2427" y="358" key="#com.intellij.fileTypes.FileTypeChooser/1440.25.2560.1055/0.25.1440.819@1440.25.2560.1055" timestamp="1620481483275" />
+    <state x="2458" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620485182470">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2458" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.0.2560.1080/0.0.1440.900@1440.0.2560.1080" timestamp="1620485182470" />
+  </component>
+</project>
